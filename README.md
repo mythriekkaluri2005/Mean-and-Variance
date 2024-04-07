@@ -49,7 +49,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-NAME:EKKALURI MYTHRI
+DEVELOPED BY:EKKALURI MYTHRI
 REGISTRATION NO:212223240034
 
 import numpy as np
